@@ -28,9 +28,9 @@
 
 论文：YOLO v1 You Only Look Once: Unified, Real-Time Object Detection
 
-     YOLO v2 YOLO9000: Better, Faster, Stronger 
+论文：YOLO v2 YOLO9000: Better, Faster, Stronger 
      
-     YOLO v3 YOLOv3: An Incremental Improvement
+论文：YOLO v3 YOLOv3: An Incremental Improvement
      
 ## 5.SSD是对Faster RCNN RPN这一独特步骤的延伸与整合
 [SSD详解](https://blog.csdn.net/u014380165/article/details/72824889)
@@ -76,4 +76,4 @@
 
 论文：R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
-![Alt text](https://github.com/jinghehehe/-1.1/tree/master/%E6%88%AA%E5%9B%BE/1.jpg)
+![Alt text](https://github.com/jinghehehe/-1.1/tree/master/截图/1.jpg)
