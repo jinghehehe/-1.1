@@ -76,4 +76,4 @@
 
 论文：R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
-![Alt text](https://github.com/jinghehehe/-1.1/tree/master/截图/1.jpg)
+![Alt text](https://github.com/jinghehehe/-1.1/blob/master/%E6%88%AA%E5%9B%BE/1.jpgg)
