@@ -48,7 +48,7 @@
 
 论文：DSSD : Deconvolutional Single Shot Detector 
 
-## 7.T-CNN
+## 7.T-CNN（树结构的CNN），是VOT2016的冠军
 [T-CNN详解](https://blog.csdn.net/linolzhang/article/details/74999644)
 
 [T-CNN代码](https://github.com/myfavouritekk/T-CNN)
@@ -76,3 +76,4 @@
 
 论文：R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
+![Alt text](https://github.com/jinghehehe/-1.1/截图/1.jpg)
